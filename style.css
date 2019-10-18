@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    width: 900px;
+    height: 600px;
+}
+
+.main-container {
+    display: inline-block;
+    width: 60%;
+    background-color: #f58b54;
+}
+
+.sec-container {
+    display: inline-block;
+    width: 39%;
+    background-color: #dfddc7;
+}
