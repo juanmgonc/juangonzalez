@@ -3980,6 +3980,11 @@ input[type=button].btn-block {
   text-decoration: none;
 }
 
+.navbar-icon {
+  width: 60px;
+  height: 60px;
+}
+
 .navbar-nav {
   display: flex;
   flex-direction: column;
@@ -10269,4 +10274,16 @@ form .row:first-child .floating-label-form-group {
 }
 .credits > a {
   color: #fff;
+}
+
+.app-custom-icons {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
+
+.app-info-container {
+  margin: 30px;
+  display: flex;
+  justify-content: space-evenly;
 }
